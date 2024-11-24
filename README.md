@@ -70,13 +70,15 @@ RegisterNumber:24900164*/
 **RTL realization**
 
 **Output:**
-![RTL output ](https://github.com/user-attachments/assets/531b71cb-8f01-4032-b40a-3bed9f908163)
-![RTl output](https://github.com/user-attachments/assets/da6aaff0-a6ab-4439-a339-e7664179a674)
+
 
 
 **RTL**
 
 **Timing Diagram**
+![RTL output ](https://github.com/user-attachments/assets/531b71cb-8f01-4032-b40a-3bed9f908163)
+![RTl output](https://github.com/user-attachments/assets/da6aaff0-a6ab-4439-a339-e7664179a674)
+
 
 **Result:**
 
